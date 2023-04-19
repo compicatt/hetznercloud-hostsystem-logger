@@ -7,7 +7,7 @@ This is a simple Bash script that logs the hostsystem of a Hetzner Cloud Server 
 
 **Installation**
 1. Clone the repository to your local machine:
-    git clone https://github.com/compicatt/hetznercloud-hostsystem-logger.gitbash
+    `git clone https://github.com/compicatt/hetznercloud-hostsystem-logger.gitbash`
 Copy code
 git clone https://github.com/yourusername/hostname-logger.git
 Open the save_hostname.sh file in a text editor and modify the HOSTNAMES_FILE variable to specify the path and filename for the log file. Save the changes.
